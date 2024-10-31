@@ -534,7 +534,7 @@ https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ege-tv" tvg-logo="https://iptvx.one/picons/ege-tv.png" group-title="Познавательные",ЕГЭ ТВ (EDTV 576p)
 
-#EXTINF:-1 tvg-id="	morskoy" tvg-logo="https://iptvx.one/picons/morskoy.png" group-title="Познавательные",Моя стихия (EDTV 576p)
+#EXTINF:-1 tvg-id="morskoy" tvg-logo="https://iptvx.one/picons/morskoy.png" group-title="Познавательные",Моя стихия (EDTV 576p)
 http://109.200.130.123:7537/play/a02f
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="Познавательные",Живая Планета (EDTV 576p)
 http://91.224.169.250:5000/c7

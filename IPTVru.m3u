@@ -274,6 +274,8 @@ http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Кинозал",Amedia Premium (HD)
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="Кинозал",BollywooD (HD)
+http://193.242.204.28:10083/83
 #EXTINF:-1 audio-track="rus" tvg-id="epik-drama" tvg-logo="https://iptvx.one/picons/epik-drama.png" group-title="Кинозал",Epic Drama (HD)
 
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema.png" group-title="Кинозал",Cinema (EDTV 576p)
@@ -371,7 +373,7 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Кинозал",Любимое кино (EDTV 576p)
 http://91.205.199.3/lubimoekino/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кинозал",НСТ (EDTV 576p)
-http://91.142.158.107:8092/play/29/index.m3u8
+http://193.242.204.28:10054/54
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://iptvx.one/picons/ostrosiuzhetnoe-hd.png" group-title="Кинозал",Остросюжетное (HD)
 http://31.131.136.4:8001/play/e012
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Кинозал",Премиальное (HD)
@@ -397,8 +399,10 @@ http://185.50.148.2:7703/TV1000RusKino/index.m3u8
 http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Русский кинозал",Дом Кино (EDTV 576p)
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум (HD)
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум (EDTV 576p)
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум (HD)
+http://193.242.204.28:10081/81
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://iptvx.one/picons/dushevnoe.png" group-title="Русский кинозал",Душевное (HD)
 http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="http://epg.it999.ru/img2/6258.png" group-title="Русский кинозал",Кино 1 Int (480p)

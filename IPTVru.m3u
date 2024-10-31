@@ -338,7 +338,7 @@ http://77.235.1.17/vip_megahit/index.m3u8
 http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Кинозал",Viju+serial (HD)
 http://77.235.1.17/vip_serial/index.m3u8
-#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Кинозал",Дорама (EDTV 576p)
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Кинозал",Дорама (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
 http://ott-cdn.ucom.am/s95/04.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кинозал",Еврокино (EDTV 576p)

@@ -16,7 +16,7 @@ http://194.158.222.36:6101
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="tro" tvg-logo="http://epg.it999.ru/img2/2294.png" group-title="Общественные",БелРос (WSVGA)
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXIINF:-1 tvg-id="ont-by" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="Общественные",ОНТ (EDTV 576p)
+#EXTINF:-1 tvg-id="ont-by" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="Общественные",ОНТ (EDTV 576p)
 http://194.158.222.36:6102
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия (HD ready)
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -584,7 +584,7 @@ https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
 http://91.224.169.250:5000/c42
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Хобби и увлечения",Бобёр (EDTV 576p)
 http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="Досуг",Глазами туриста (WSVGA)
+#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="Хобби и увлечения",Глазами туриста (WSVGA)
 https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="Хобби и увлечения",Диалоги о рыбалке (EDTV 576p)
 rtmp://92.119.88.58//2394

@@ -152,7 +152,7 @@ http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="Развлекательные",TV1 KG (HD)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.it999.ru/img2/920.png" group-title="Развлекательные",Comedy Central (EDTV 576p)
-
+http://ott.server-iptv.live/645/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="e-tv" tvg-logo="https://iptvx.one/picons/e-tv.png" group-title="Развлекательные",E (HD)
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-logo="https://iptvx.one/picons/gags-network.png" group-title="Развлекательные",GagsNetwork (HD)
@@ -173,6 +173,8 @@ http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="Развлекательные",Калейдоскоп ТВ (EDTV 576p)
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="2836" tvg-logo="http://epg.one/img2/2836.png" group-title="Развлекательные",Камеди (HD)
+http://ott.server-iptv.live/676/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Развлекательные",Ключ (EDTV 576p)
 
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец (EDTV 576p)
@@ -279,6 +281,8 @@ http://31.210.208.171:8080/shanson/index.m3u8?token=+W2MSER
 http://91.194.191.241:8081/chid408/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png" group-title="Кинозал",.red (EDTV 576p)
 http://178.124.152.238:8088/sony
+#EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png" group-title="Кинозал",.red (HD)
+http://ott.server-iptv.live/695/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="Кинозал",.sci-fi (EDTV 576p)
 http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Кинозал",Amedia 1 (EDTV 576p)
@@ -307,8 +311,10 @@ http://130.193.73.10:8937/play/a03s
 
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Кинозал",FX (EDTV 576p)
 http://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Кинозал",FX Life (EDTV 576p)
-
+#EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Кинозал",FX (HD)
+http://ott.server-iptv.live/626/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Кинозал",FX Life (WSVGA)
+http://ott.server-iptv.live/646/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Кинозал",HollywooD (EDTV 576p)
 http://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Кинозал",HollywooD (HD)
@@ -336,7 +342,7 @@ http://77.235.1.17/start_world/index.m3u8
 #EXTINF:-1 tvg-id="trashtv" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="Кинозал",Trash (HD)
 http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 #EXTINF:-1 audio-track="ru" tvg-id="tv1000-cee" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Кинозал",Viasat Kino (HD)
-
+http://ott.server-iptv.live/618/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 audio-track="ru" tvg-id="tv1000-action-cee" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="Кинозал",Viasat Kino Action (EDTV 576p)
 
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Кинозал",Viasat Kino World (EDTV 480p)
@@ -357,6 +363,8 @@ http://77.235.1.17/vip_megahit/index.m3u8
 http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Кинозал",Viju+serial (HD)
 http://77.235.1.17/vip_serial/index.m3u8
+#EXTINF:-1 tvg-id="2832" tvg-logo="http://epg.one/img2/2832.png" group-title="Кинозал",Блокбастер (HD)
+http://ott.server-iptv.live/668/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="Кинозал",Дорама (EDTV 576p)
 https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кинозал",Еврокино (EDTV 576p)
@@ -366,7 +374,7 @@ http://91.224.169.250:5000/c47
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="Кинозал",Комедия (EDTV 576p)
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-logo="https://iptvx.one/picons/komedijnoe.png" group-title="Кинозал",Комедийное (HD)
-
+http://ott.server-iptv.live/617/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="kineko" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="Кинозал",Кинеко (HD)
 http://130.193.73.10:8937/play/a03d
 #EXTINF:-1 tvg-id="4780" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" group-title="Кинозал",КиноДетектив (HD ready)
@@ -379,6 +387,8 @@ https://autopilot.catcast.tv/content/40783/index.m3u8
 https://autopilot.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кинозал",Кинопоказ (EDTV 576p)
 http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кинозал",Кинопоказ (HD)
+http://ott.server-iptv.live/611/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="kino-bez-granic" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png" group-title="Кинозал",Кино без границ (HD)
 
 #EXTINF:-1 tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Кинозал",Киноман (nHD)
@@ -390,13 +400,15 @@ http://130.193.73.10:8937/play/a037
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кинозал",НСТ (EDTV 576p)
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://iptvx.one/picons/ostrosiuzhetnoe-hd.png" group-title="Кинозал",Остросюжетное (HD)
-
+http://ott.server-iptv.live/604/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="Кинозал",Премиальное (HD)
 rtmp://5.182.229.90//7222
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Кинозал",Ретро (EDTV 576p)
 http://91.224.169.250:5000/c37
-#EXTINF:-1  tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="Кинозал",Сапфир (EDTV 576p)
+#EXTINF:-1 tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="Кинозал",Сапфир (EDTV 576p)
 http://130.193.73.10:8937/play/a01e
+#EXTINF:-1 tvg-id="2833" tvg-logo="https://epg.one/img2/2833.png" group-title="Кинозал",Хит (HD)
+http://ott.server-iptv.live/665/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" tvg-logo="https://iptvx.one/picons/shokiruyushchee-hd.png" group-title="Кинозал",Шокирующее (HD)
 
 
@@ -406,8 +418,12 @@ http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 rtmp://5.182.229.90//7260
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://iptvx.one/picons/star-cinema.png" group-title="Русский кинозал",Star Cinema (EDTV 576p)
 http://77.235.1.17/star_cinema/index.m3u8
+#EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://iptvx.one/picons/star-cinema.png" group-title="Русский кинозал",Star Cinema (HD)
+http://ott.server-iptv.live/643/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Русский кинозал",Star Family (EDTV 576p)
 http://77.235.1.17/star_family/index.m3u8
+#EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Русский кинозал",Star Family (HD)
+http://ott.server-iptv.live/673/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Русский кинозал",Viju TV1000 Русское (EDTV 576p)
 http://185.50.148.2:7703/TV1000RusKino/index.m3u8
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Русский кинозал",День Победы (HD)
@@ -417,15 +433,17 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум (EDTV 576p)
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум (HD)
-
+http://ott.server-iptv.live/603/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://iptvx.one/picons/dushevnoe.png" group-title="Русский кинозал",Душевное (HD)
 http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="http://epg.it999.ru/img2/6258.png" group-title="Русский кинозал",Кино 1 Int (480p)
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="Русский кинозал",Мир сериала (EDTV 576p)
-
+http://ott.server-iptv.live/627/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Русский кинозал",Мосфильм. Золотая коллекция (HD)
 http://185.50.148.2:7706/Mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="2831" tvg-logo="http://epg.one/img2/2831.png" group-title="Русский кинозал",Наш кинопоказ (HD)
+http://ott.server-iptv.live/666/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="nashehd" tvg-logo="https://iptvx.one/picons/nashehd.png" group-title="Русский кинозал",Наше (HD)
 http://77.235.1.17/nashe_krutoe/index.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="Русский кинозал",Наше Мужское (HD)
@@ -438,6 +456,8 @@ http://77.235.1.17/ntv_hit/index.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Русский кинозал",Победа (EDTV 576p)
 http://93.189.224.246:52900/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="2829" tvg-logo="http://epg.one/img2/2829.png" group-title="Русский кинозал",Про любовь (HD)
+http://ott.server-iptv.live/667/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Русский кинозал",Русский бестселлер (EDTV 576p)
 http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Русский кинозал",Русский детектив (EDTV 576p)

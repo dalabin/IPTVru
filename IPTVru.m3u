@@ -112,7 +112,7 @@ http://91.194.191.241:8081/chid292/tracks-v1a1/mono.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/61126
 #EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель Int (EDTV 576p)
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель Int (HD)
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель Int (HD ready)
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="kinomult" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="Детские",КиноМульт (EDTV 576p)
 http://dmi3y-tv.ru/hls/CH_KINOMULT.m3u8

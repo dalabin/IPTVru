@@ -256,7 +256,7 @@ http://195.26.83.96:7006/play/1/index.m3u8
 http://94.230.128.105:8080/MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="2277" tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU TV (HD)
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 tvg-id="2277" tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU TV Беларусь (EDTV 576p)
+#EXTINF:-1 tvg-id="ru-tv-by" tvg-logo="https://iptvx.one/picons/ru-tv-by.png" group-title="Музыкальные",RU TV Беларусь (EDTV 576p)
 http://93.189.224.246:52900/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="zhar-ptica" tvg-logo="https://iptvx.one/picons/zhar-ptica.png" group-title="Музыкальные",Жар-Птица (EDTV 480p)
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
@@ -604,7 +604,7 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 http://91.194.191.241:8081/chid162/tracks-v1a1/mono.m3u8
 #EXTINF:-1 id="187" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Познавательные",Россия К (HD)
 https://player.smotrim.ru/iframe/stream/live_id/19201?43e=5.m3u8
-#EXTINF:-1 tvg-id="texno24" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="Познавательные",Т24 (EDTV 576p)
+#EXTINF:-1 tvg-id="texno24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="Познавательные",Т24 (EDTV 576p)
 http://91.224.169.250:5000/c15
 
 #EXTINF:-1 audio-track="rus" tvg-id="tlc" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="Хобби и увлечения",TLC (EDTV 576p)

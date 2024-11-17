@@ -138,7 +138,7 @@ https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="kinomult" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="Детские",КиноМульт (EDTV 576p)
 http://109.200.130.123:7537/play/a024
 #EXTINF:-1 tvg-id="liova" tvg-logo="https://iptvx.one/picons/liova.png"  group-title="Детские",Лёва (HD)
-
+http://s5.merlive.am:80/planb/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group-title="Детские",Мама (SDTV 576i)
 http://stream01.vnet.am/Mama/mono.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт (HD)

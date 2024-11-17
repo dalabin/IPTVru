@@ -451,7 +451,7 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум (EDTV 576p)
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум (HD)
-http://dmi3y-tv.ru/hls/CH_DOMKINOPREMIUMHD.m3u8
+http://77.235.1.17/dom_kino_premium/index.m3u8
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://iptvx.one/picons/dushevnoe.png" group-title="Русский кинозал",Душевное (HD)
 http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="http://epg.it999.ru/img2/6258.png" group-title="Русский кинозал",Кино 1 Int (480p)
@@ -612,7 +612,7 @@ http://91.247.68.229:8000/play/Poehali/index.m3u8
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="psixologia-21" tvg-logo="https://iptvx.one/picons/psixologia-21.png" group-title="Познавательные",Психология (EDTV 576p)
 http://91.224.169.250:5000/c39
-#EXTINF:-1 tvg-id="187" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Познавательные",Россия К (HD)
+#EXTINF:-1 tvg-id="187" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Познавательные",Россия К (HD ready)
 https://player.smotrim.ru/iframe/stream/live_id/19201?43e=5.m3u8
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="Познавательные",Т24 (EDTV 576p)
 http://91.224.169.250:5000/c15

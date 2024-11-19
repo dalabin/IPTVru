@@ -182,8 +182,8 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-logo="https://iptvx.one/picons/gags-network.png" group-title="Развлекательные",GagsNetwork (HD)
 rtmp://5.182.229.90//7142
-#EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://iptvx.one/picons/russky-ekstrim.png" group-title="Развлекательные",Russian Extreme (EDTV 576p)
-
+#EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://iptvx.one/picons/russky-ekstrim.png" group-title="Развлекательные",Russian Extreme (D1)
+http://91.224.169.250:5000/c61
 #EXTINF:-1 tvg-id="tvmchannel" tvg-logo="https://iptvx.one/picons/tvmchannel.png" group-title="Развлекательные",TVM Channel (EDTV 576p)
 http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="belarus2" tvg-logo="https://iptvx.one/picons/belarus2hd.png" group-title="Развлекательные",Беларусь 2 (HD)
@@ -236,7 +236,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Развлекательные",Твоё ТВ Юмор (HD)
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="teatr" tvg-logo="https://iptvx.one/picons/teatr.png" group-title="Развлекательные",Театр (EDTV 576p)
-
+http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://iptvx.one/picons/tochka-tv.png" group-title="Развлекательные",Точка ТВ (EDTV 576p)
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt" tvg-logo="http://epg.it999.ru/img2/353.png" group-title="Развлекательные",ТНТ (EDTV 480p)
@@ -277,7 +277,7 @@ http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-logo="https://iptvx.one/picons/clubbing-tv.png" group-title="Музыкальные",Clubbing TV (HD ready)
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-logo="https://iptvx.one/picons/o2tv.png" group-title="Музыкальные",О!2 (EDTV 576p)
-
+http://185.23.80.28:8080/O2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="2409" tvg-logo="http://epg.one/img2/2409.png" group-title="Музыкальные",Russian MusicBox (EDTV 576p)
 http://94.230.128.105:8080/MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="2277" tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальные",RU TV (HD)
@@ -480,7 +480,7 @@ http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Русский кинозал",Русский детектив (EDTV 576p)
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="Русский кинозал",Русский иллюзион (EDTV 576p)
-
+http://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Русский кинозал",Русский роман (HD)
 http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="telekafe" tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Русский кинозал",Телекафе (EDTV 576p)

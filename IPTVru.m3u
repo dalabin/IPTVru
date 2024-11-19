@@ -593,7 +593,7 @@ http://stream01.vnet.am/Istoria/mono.m3u8
 
 #EXTINF:-1 tvg-id="morskoy" tvg-logo="https://iptvx.one/picons/morskoy.png" group-title="Познавательные",Моя стихия (EDTV 576p)
 http://130.193.73.10:8937/play/a02f
-#EXTINF:-1 tvg-id="nano-hd" nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="Познавательные",Нано (WSVGA)
+#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="Познавательные",Нано (WSVGA)
 http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="Познавательные",Наука (HD)
 https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8

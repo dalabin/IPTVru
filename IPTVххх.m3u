@@ -10,7 +10,7 @@ http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS (HD)
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="belarus1" tvg-logo="https://iptvx.one/picons/belarus1hd.png" group-title="Общественные",Беларусь 1 (EDTV 576p)
-http://194.158.222.36:6101
+
 #EXTINF:-1 tvg-id="tro" tvg-logo="http://epg.one/img2/2294.png" group-title="Общественные",БелРос (WSVGA)
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия (HD ready)
@@ -186,8 +186,6 @@ http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
 http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" group-title="Развлекательные",TV1 KG (HD)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="paramount-comedy" tvg-logo="http://epg.one/img2/920.png" group-title="Развлекательные",Comedy Central (EDTV 576p)
-
 #EXTINF:-1 tvg-id="e-tv" tvg-logo="https://iptvx.one/picons/e-tv.png" group-title="Развлекательные",E (HD)
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-logo="https://iptvx.one/picons/gags-network.png" group-title="Развлекательные",GagsNetwork (HD)
@@ -370,6 +368,8 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" group-title="Кинозал",Scream (HD)
 http://88.218.242.237:8000/play/a00c
+#EXTINF:-1 tvg-id="suspense" tvg-logo="https://iptvx.one/picons/suspense.png" group-title="Кинозал", Suspense (HD)
+http://88.218.242.237:8000/play/a005
 #EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://iptvx.one/picons/shot-tv.png" group-title="Кинозал",SHOT TV (EDTV 576p)
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="start-world" tvg-logo="http://epg.one/img2/6240.png" group-title="Кинозал",Start World (EDTV 576p)
@@ -381,7 +381,7 @@ http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 #EXTINF:-1 audio-track="ru" tvg-id="tv1000-action-cee" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="Кинозал",Viasat Kino Action (EDTV 576p)
 
 #EXTINF:-1tvg-id="vip-comedy-cee" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Кинозал",Viasat Kino Comedy (HD ready)
-https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Кинозал",Viasat Kino World (EDTV 480p)
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="Кинозал",VHS-ка (HD)
@@ -615,8 +615,8 @@ http://91.247.68.229:8000/play/Poehali/index.m3u8
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="psixologia-21" tvg-logo="https://iptvx.one/picons/psixologia-21.png" group-title="Познавательные",Психология (EDTV 576p)
 http://91.224.169.250:5000/c39
-#EXTINF:-1 tvg-id="187" tvg-logo="http://epg.one/img2/187.png" group-title="Познавательные",Россия К (HD ready)
-https://player.smotrim.ru/iframe/stream/live_id/19201?43e=5.m3u8
+#EXTINF:-1 tvg-id="187" tvg-logo="http://epg.one/img2/187.png" group-title="Познавательные",Россия К (HD)
+https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="Познавательные",Т24 (EDTV 576p)
 http://91.224.169.250:5000/c15
 
@@ -721,6 +721,9 @@ http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ntm" tvg-logo="https://iptvx.one/picons/ntm.png" group-title="Региональные",НТМ (Саранск) (HD ready)
 http://dmi3y-tv.ru/hls/region/CH_NTMHD720_SRNK.m3u8
+#EXTINF:-1 tvg-id="prima" tvg-logo="https://iptvx.one/picons/prima.png" group-title="Региональные",Прима (HD)
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 #EXTINF:-1 tvg-id="6763" tvg-logo="http://epg.one/img2/6763.png" group-title="Региональные",РТВ (Раменск) (HD ready)
 https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="Региональные",Своё ТВ (Ставрополь) (HD)

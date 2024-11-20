@@ -170,7 +170,7 @@ http://130.193.73.10:8937/play/a017
 #EXTINF:-1 tvg-id="detsky" tvg-logo="https://iptvx.one/picons/unikum.png" group-title="Детские",Уникум (EDTV 576p)
 http://91.224.169.250:5000/c44
 #EXTINF:-1 tvg-id="detsky" tvg-logo="https://iptvx.one/picons/unikum.png" group-title="Детские",Уникум (HD)
-http://91.224.169.250:5000/c44
+http://141.95.55.143/CH2269/index.m3u8
 
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="Развлекательные",2x2 (EDTV 576p)
 http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER

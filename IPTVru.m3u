@@ -603,10 +603,10 @@ http://130.193.73.10:8937/play/a02f
 http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="Познавательные",Наука (HD)
 https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://iptvx.one/picons/nasha-sibir.png" group-title="Познавательные",Наша Сибирь (HD)
-http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Познавательные",НТВ Право (EDTV 576p)
 http://130.193.73.10:8937/play/a01s
+#EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://iptvx.one/picons/nasha-sibir.png" group-title="Познавательные",Наша Сибирь (HD)
+http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo="http://epg.one/img2/675.png" group-title="Познавательные",Моя Планета (EDTV 576p)
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo="http://epg.one/img2/675.png" group-title="Познавательные",Моя Планета (HD)

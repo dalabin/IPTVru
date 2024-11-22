@@ -9,8 +9,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS (HD)
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="belarus1" tvg-logo="https://iptvx.one/picons/belarus1hd.png" group-title="Общественные",Беларусь 1 (EDTV 576p)
-
+#EXTINF:-1 tvg-id="belarus1" tvg-logo="https://iptvx.one/picons/belarus1hd.png" group-title="Общественные",Беларусь 1 (HD)
+http://93.189.224.246:52900/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="tro" tvg-logo="http://epg.one/img2/2294.png" group-title="Общественные",БелРос (WSVGA)
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия (HD ready)
@@ -145,7 +145,7 @@ https://player.smotrim.ru/iframe/stream/live_id/61126
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель Int (HD ready)
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
-#EXTINF:-1 tvg-id="kinomult" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="Детские",КиноМульт (EDTV 576p)
+#EXTINF:-1 tvg-id="9024" tvg-logo="http://epg.one/img2/9024.png" group-title="Детские",КиноМульт (EDTV 576p)
 http://109.200.130.123:7537/play/a024
 #EXTINF:-1 tvg-id="liova" tvg-logo="https://iptvx.one/picons/liova.png"  group-title="Детские",Лёва (HD)
 http://s5.merlive.am:80/planb/index.m3u8
@@ -508,6 +508,8 @@ http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 (HD)
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 tvg-id="fightbox-hd" tvg-logo="https://iptvx.one/picons/fightbox-hd.png" group-title="Спортивные",FightBox (EDTV 576p)
+http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img2/2055.png" group-title="Спортивные",Viju+sport (EDTV 576p)
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спортивные",Беларусь 5 (HD)
@@ -543,6 +545,8 @@ http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="2377" tvg-logo="https://iptvx.one/picons/hgtv.png" group-title="Познавательные",HGTV (HD)
 
+#EXTINF:-1 tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png" group-title="Познавательные",History (HD)
+http://stream01.vnet.am/Channel_123/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png" group-title="Познавательные",ID (HD)
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные",National Geographic (EDTV 576p)
@@ -601,12 +605,14 @@ http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Познавательные",НТВ Право (EDTV 576p)
 http://130.193.73.10:8937/play/a01s
+#EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://iptvx.one/picons/nasha-sibir.png" group-title="Познавательные",Наша Сибирь (HD)
+http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo="http://epg.one/img2/675.png" group-title="Познавательные",Моя Планета (EDTV 576p)
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo="http://epg.one/img2/675.png" group-title="Познавательные",Моя Планета (HD)
 http://stream2.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://iptvx.one/picons/ocean-tv.png" group-title="Познавательные",ОКЕАН (EDTV 576p)
-http://141.95.55.143/CH417/index.m3u8
+
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="http://epg.one/img2/2310.png" group-title="Познавательные",Первый Космический (HD)
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="Познавательные",Поехали! (EDTV 576p)

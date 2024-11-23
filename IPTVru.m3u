@@ -208,6 +208,8 @@ http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="Развлекательные",Калейдоскоп ТВ (EDTV 576p)
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="kamedi" tvg-logo="https://iptvx.one/picons/kamedi.png" group-title="Развлекательные",Камеди (EDTV 576p)
+http://185.23.80.28:8080/Camedi/index.m3u8?token=tva.in.ua
 #EXTINF:-1 tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Развлекательные",Ключ (EDTV 576p)
 http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец (EDTV 576p)
@@ -489,6 +491,8 @@ http://cdn2.ntv.ru/th_hit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.one/img2/2447.png" group-title="Русский кинозал",Победа (EDTV 576p)
 http://93.189.224.246:52900/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="pro-lyubov" tvg-logo="https://iptvx.one/picons/pro-lyubov.png" group-title="Русский кинозал",Про любовь (EDTV 576p)
+http://185.23.80.28:8080/ProLyubov/index.m3u8?token=test
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Русский кинозал",Русский бестселлер (EDTV 576p)
 http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Русский кинозал",Русский детектив (EDTV 576p)
@@ -542,7 +546,7 @@ http://88.218.242.237:8000/play/a00k
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery (HD)
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="Познавательные",Galaxy TV (EDTV 576p)
-http://195.26.83.96:7007/play/a00j/index.m3u8
+http://185.23.80.28:8080/Galaxy/index.m3u8?token=test
 #EXTINF:-1 tvg-id="2377" tvg-logo="https://iptvx.one/picons/hgtv.png" group-title="Познавательные",HGTV (HD)
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png" group-title="Познавательные",History (HD)

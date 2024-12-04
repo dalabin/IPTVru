@@ -23,6 +23,7 @@ https://smolnp.github.io/IPTVru//IPTVru.m3u
 ```
 https://smolnp.github.io/IPTVru//IPTVmir.m3u8
 ```
+(Плейлист не модерируется, поддерживается только пользователями).
 
 ## Таблица разрешений кадра телеканалов:
 * **nHD** — 640 × 360 (16:9),

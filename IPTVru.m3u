@@ -258,7 +258,7 @@ http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 (EDTV 576p)
 http://31.210.208.171:8080/tnt4/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="tnt4-international" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 Int (EDTV 480p)
+#EXTINF:-1 tvg-id="tnt4-international" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 Int (EDTV 576p)
 http://stream02.vnet.am/THTComedy/mono.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://iptvx.one/picons/centralnoye-tv.png" group-title="Развлекательные",Центральное ТВ (EDTV 576p)
 http://stream01.vnet.am/Channel_129/mono.m3u8

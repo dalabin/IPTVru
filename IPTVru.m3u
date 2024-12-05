@@ -629,7 +629,7 @@ https://player.smotrim.ru/iframe/stream/live_id/19201
 http://stream2.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="Хобби и увлечения",TLC (EDTV 576p)
-
+http://dmi3y-tv.ru/hls/CH_TLC.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-logo="http://epg.one/img2/521.png" group-title="Хобби и увлечения",Viju EXPLORE (EDTV 576p)
 http://82.215.111.227/1045/index.m3u8
 #EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.one/img2/2008.png" group-title="Хобби и увлечения",АВТО 24 (EDTV 576p)
